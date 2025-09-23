@@ -10,7 +10,7 @@ level_attributes:
   - unique_name: Date Level
     label: Date Level
     contains_unique_names: false
-    dataset: date_dataset
+    dataset: datecustom
     is_unique_key: false
     key_columns:
       - datekey
